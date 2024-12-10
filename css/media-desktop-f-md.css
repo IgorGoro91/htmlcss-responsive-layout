@@ -1,0 +1,38 @@
+@media screen and ( min-width: 481px ) and ( max-width: 900px ) {
+
+    .quick-notes ul{
+        
+        display: flex;
+        flex-wrap: wrap;
+        flex-basis: 100%;
+        gap: 0 100px;
+                        
+    }
+    .ads{
+        display: block;
+    }
+    
+        
+
+    .social-networks button {
+        padding: 10px 50px;
+        
+    }
+    
+    .presentation img{
+        float: left;
+        padding: 10px;
+    }
+    .recipe-origin {
+        display: inline-block;
+        
+    }
+    .recipe-title{
+        font-size: 20px;
+    }
+    main {
+	background-color: #f6f5f3;
+	padding: 0 40px;
+	
+    }
+}

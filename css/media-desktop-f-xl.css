@@ -1,0 +1,65 @@
+@media screen and ( min-width: 901px ){
+
+    
+   
+    #topbar{
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+
+    }
+  
+    .recipe-card{
+        display: flex;       
+    }
+
+    .ads{
+        display: block;
+    }
+    
+    
+    .recipe-video {
+        height: 30vw;
+        width: 70%;
+        
+    }
+
+    
+    .social-networks button {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 10px 40px;
+    }
+
+    
+    .social-networks .label {
+        display: flex;
+        
+    }
+    .recipe-title{
+        font-size: 30px;
+    }
+        
+    
+    .recipe-origin {
+        display: inline-block;
+        
+    }
+    .presentation img{
+        float: left;
+        padding: 10px;
+    }
+    footer{
+        display: flex;
+        
+        justify-content: space-between;
+                
+    }
+    address{
+        display: flex;
+        flex-direction: column;
+    }
+    
+      
+}
