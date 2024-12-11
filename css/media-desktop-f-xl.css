@@ -10,8 +10,13 @@
     }
   
     .recipe-card{
-        display: flex;       
+        
+        display: flex;
+        justify-content: space-between;
+                   
+         
     }
+    
 
     .ads{
         display: block;
@@ -20,9 +25,10 @@
     
     .recipe-video {
         height: 30vw;
-        width: 70%;
+        width: 80%;
         
     }
+    
 
     
     .social-networks button {
@@ -55,10 +61,6 @@
         
         justify-content: space-between;
                 
-    }
-    address{
-        display: flex;
-        flex-direction: column;
     }
     
       
